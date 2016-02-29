@@ -10,7 +10,7 @@ This base image runs on Ubuntu/wily. For dependencies, it uses [buildpack-deps:w
 
 Tags correlate with the version of R.
 
-* `3.2.3` [(3.2.3/Dockerfile)](https://github.com/pipmyday/noder/Dockerfile)
+* `latest`, `3.2.3` [(3.2.3/Dockerfile)](https://github.com/pipmyday/noder/blob/master/Dockerfile)
 
 ----
 
